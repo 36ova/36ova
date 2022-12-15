@@ -1,6 +1,6 @@
 ### Hi there 👋
-- Троешестова Лидия
-- МФТИ ФПМИ, 3 курс, Б05-022
+- Lidia Troeshestova
+- MIPT, 3rd year
 - tg: @leeda36
 - gitlab: @leeda36
 - vk: vk.com/leeda36
