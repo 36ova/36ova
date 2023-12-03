@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Lidia Troeshestova
-- MIPT, 3rd year
+- MIPT, 4th year
 - tg: @leeda36
 - gitlab: @leeda36
 - vk: vk.com/leeda36
