@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Lidia Troeshestova
-- MIPT, master's, year 1
+- MIPT, master's, year 2
 - tg: @leeda36
 - gitlab: @leeda36
 
