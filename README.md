@@ -1,7 +1,6 @@
 ### Hi there 👋
 - Lidia Troeshestova
-- MIPT, master's, year 2
-- tg: @leeda36
+- Yandex Research ML Resident
 - gitlab: @leeda36
 
 <!--
